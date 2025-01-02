@@ -1,5 +1,5 @@
 # BoostOS
-BoostOS is a FPS Booster for MacOS to make your Mac run smoother.
+BoostOS is a small program to make your Mac run smoother.
 
 # Info
 
